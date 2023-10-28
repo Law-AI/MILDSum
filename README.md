@@ -19,7 +19,6 @@ If you use this dataset, please refer to the following paper:
    title = {{MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments}},
    booktitle = {{Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)}},
    year = {2023},
-   publisher = {Association for Computational Linguistics},
   }
 ```
 
