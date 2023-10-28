@@ -23,4 +23,4 @@ If you use this dataset, please refer to the following paper:
 ```
 
 ## Contact
-For any inquiries, feedback, or collaboration opportunities, please contact to debtanudatta04@gmail.com
+For any inquiries, feedback, or collaboration opportunities, please contact to {debtanudatta04 [at] gmail [dot] com}
