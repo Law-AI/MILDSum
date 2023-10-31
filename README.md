@@ -1,6 +1,6 @@
 # MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments
 
-Short Paper Accepted at the **EMNLP 2023 Main Conference!**
+Paper Accepted at the **EMNLP 2023 Main Conference!**
 
 
 ## The MILDSum Dataset 
