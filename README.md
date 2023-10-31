@@ -9,7 +9,7 @@ Paper Accepted at the **EMNLP 2023 Main Conference!**
 A sample of <b> MILDSum </b> dataset can be found under the `Data/MILDSum_Samples` folder. The full dataset will be released shortly.
 
 #### Folder Structure
-Each sample subdirectory contains 3 txt files -- <i>EN_Judgment.txt</i>, <i>EN_Summary.txt</i>, and <i>HI_Summary.txt</i>. Where <i>EN_Judgment.txt</i> contains the original case judgement. <i>EN_Summary.txt</i> and <i>HI_Summary.txt</i> contain corresponding English and Hindi summaries respectively.
+Each sample subdirectory contains 3 txt files -- <i>EN_Judgment.txt</i>, <i>EN_Summary.txt</i>, and <i>HI_Summary.txt</i>. Where <i>EN_Judgment.txt</i> contains the original case judgment. <i>EN_Summary.txt</i> and <i>HI_Summary.txt</i> contain corresponding English and Hindi summaries respectively.
 
 ## Citation
 If you use this dataset, please refer to the following paper:
