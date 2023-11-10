@@ -1,6 +1,6 @@
 # MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments
 
-Paper Accepted at the **EMNLP 2023 Main Conference!** <a href="https://arxiv.org/abs/2310.18600">[ArXiv]</a>
+Paper Accepted at the **EMNLP 2023 Main Conference!** <a href="https://arxiv.org/abs/2310.18600">(ArXiv)</a>
 
 ## The MILDSum Dataset 
 <b> MILDSum </b> (**M**ultilingual **I**ndian **L**egal **D**ocument **Sum**marization) dataset is a collection of 3,122 Indian court judgments in English along with their summaries in both English and Hindi, drafted by legal practitioners.
