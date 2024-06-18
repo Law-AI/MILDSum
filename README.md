@@ -11,7 +11,7 @@ A sample of <b> MILDSum </b> dataset can be found under the `Data/MILDSum_Sample
 Each sample subdirectory contains 3 txt files -- <i>EN_Judgment.txt</i>, <i>EN_Summary.txt</i>, and <i>HI_Summary.txt</i>. Where <i>EN_Judgment.txt</i> contains the original case judgment. <i>EN_Summary.txt</i> and <i>HI_Summary.txt</i> contain corresponding English and Hindi summaries, respectively.
 
 ## Citation
-If you use this dataset, please refer to the following paper:
+If you use this dataset, please cite the following paper:
 ```
 @inproceedings{datta-etal-2023-mildsum,
     title = "{MILDS}um: A Novel Benchmark Dataset for Multilingual Summarization of {I}ndian Legal Case Judgments",
